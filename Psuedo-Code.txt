@@ -1,0 +1,34 @@
+Daniel Honrales
+3rd Period
+Blackjack
+
+
+The game begins with two people: a dealer and a player.
+The objective of the game is to have a hand of higher value than the other without going over 21.
+Number cards are worth their value, face cards are worth 10, and Aces are interchangeably 1 or 11.
+To start a round, the dealer deals two face-up cards for the player and a face-up card and a face-down card for himself.
+After looking over both hands, the player bets a certain amount of money based on his odds of winning.
+
+While the player's hand is under 22:
+	The player can now call for either a hit or stand.
+	If the player stands:
+		The player keeps his hand as is.
+		The dealer flips their face-down card. 
+		While the dealer's hand is under 22:
+			The dealer continually draws.
+			If the dealer's hand is over 15:
+				The dealer stops drawing.
+				If the dealer's hand is greater than the player's:
+					The dealer wins and take the player's bet.
+				elseif the dealer's hand is tied with the player's:
+					The game is a tie, no money is won or lost.
+				else:
+					The player wins and gains double what they bet.
+		If the dealer's hand is greater than 21:
+			The player wins and gains double what they bet.
+
+	If the player hits:
+		The player gets another card.
+		If the player's hand is over 21:
+			The dealer wins and take the player's bet.
+
