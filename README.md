@@ -15,3 +15,4 @@ Spend time to Create the "Psudeo.txt" File to fufill your instructions to the be
   Do the same as selection, Your statements may need to be more complex in case of fors but try and write sentences end with colons and     tab space over. 
  
 
+// selection is not a repetition
