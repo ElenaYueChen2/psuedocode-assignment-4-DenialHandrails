@@ -3,7 +3,7 @@ Daniel Honrales
 Blackjack
 
 
-The game begins with two people: a dealer and a player.
+The game begins with two people: a dealer and a player. 
 The objective of the game is to have a hand of higher value than the other without going over 21.
 Number cards are worth their value, face cards are worth 10, and Aces are interchangeably 1 or 11.
 To start a round, the dealer deals two face-up cards for the player and a face-up card and a face-down card for himself.
@@ -31,4 +31,4 @@ While the player's hand is under 22:
 		The player gets another card.
 		If the player's hand is over 21:
 			The dealer wins and take the player's bet.
-
+:)
